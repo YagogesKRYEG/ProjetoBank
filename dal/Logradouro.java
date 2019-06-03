@@ -4,5 +4,6 @@ public enum Logradouro {
 		RUA,
 		AVENIDA,
 		RODOVIA,
+		LAGO,
 		
 }
